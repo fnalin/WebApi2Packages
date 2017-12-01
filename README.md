@@ -11,4 +11,7 @@ Install-Package Microsoft.AspNet.Identity.Owin
   <li>
 Install-Package Microsoft.AspNet.WebApi.OwinSelfHost
   </li>
+  <li>
+Install-Package Microsoft.Owin.Host.SystemWeb
+  </li>
   </ul>
